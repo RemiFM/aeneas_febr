@@ -6,3 +6,4 @@ altair
 casadi
 openpyxl
 seaborn
+streamlit_nested_layout
